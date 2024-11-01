@@ -15,7 +15,7 @@ Skills Learned
 - Incident Response and Alerting: Learned to configure and manage alerting mechanisms to proactively identify and respond to potential security threats, improving incident response strategies.
 
 Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 - Elasticsearch: The core engine for storing and indexing log data, providing powerful search capabilities and real-time analytics.
 
